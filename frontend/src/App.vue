@@ -31,9 +31,11 @@
           </div>
         </div>
     <div class = 'navbar-end'>
-      <router-link to = '/summer' class = 'navbar-item' > Summer</router-link>
-      <router-link to = '/winter' class =  'navbar-item'> Winter</router-link>
-      <router-link to = '/cricket' class =  'navbar-item'> Cricket</router-link>
+      <router-link to = '/clothes' class = 'navbar-item' > Clothes</router-link>
+      <router-link to = '/books' class =  'navbar-item'> Books</router-link>
+      <router-link to = '/sports' class =  'navbar-item'> Sports</router-link>
+      <router-link to = '/electronics' class =  'navbar-item'> Electronics </router-link>
+      <router-link to = '/appliances' class =  'navbar-item'> Appliances</router-link>
 
 
     <div class ='navbar-item'>
